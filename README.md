@@ -1,6 +1,17 @@
 # Breast Cancer Prediction
+# Breast Cancer Prediction
 
 ## Overview
+Breast cancer is one of the most common cancers affecting women worldwide and is a leading cause of cancer-related deaths. Early detection significantly improves survival rates, making accurate predictive models crucial for timely diagnosis and treatment.
+
+## Background & Epidemiology
+- Breast cancer accounts for **approximately 25% of all cancers among women globally**.  
+- According to the WHO, **over 2 million new cases** are diagnosed each year, with higher mortality in low- and middle-income countries due to late detection.  
+- Risk factors include age, family history, genetic mutations (e.g., BRCA1/2), hormonal factors, lifestyle, and environmental exposures.  
+
+## Problem Statement
+Early detection of breast cancer is critical but challenging due to subtle differences in tumor characteristics. Machine learning offers a powerful approach to analyze complex datasets and accurately classify tumors as benign or malignant, enabling clinicians to prioritize patients for further testing and treatment.
+
 This project focuses on predicting breast cancer malignancy (benign vs. malignant) using machine learning. The goal was to evaluate multiple models and identify the best-performing algorithm for accurate predictions. 
 
 ## Dataset
